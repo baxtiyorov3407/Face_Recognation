@@ -56,7 +56,6 @@ def collect_single_face(path):
         return True
     return False
 
-
 def collect_faces():
     for _ in images:
         collect_single_face(Fpath+_)
