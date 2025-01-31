@@ -7,7 +7,6 @@ import json
 Fpath = "faces/"
 images = os.listdir(Fpath)
 
-# Define the data file path
 DATA_FILE = 'data_storage.json'
 
 known_names = []
