@@ -16,8 +16,7 @@ def save_data(known_names, known_name_encodings):
     """
     Save the known names and their corresponding encodings to a JSON file.
     The encodings are converted to lists to be JSON serializable.
-    """
-    # Convert the NumPy arrays to lists
+    ""
     known_name_encodings_list = [encoding.tolist() for encoding in known_name_encodings]
     
     # Create the data dictionary
