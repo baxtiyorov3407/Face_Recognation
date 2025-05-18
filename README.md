@@ -42,6 +42,10 @@ This solution aims to make the hospital check-in process more seamless and conta
    git clone https://github.com/baxtiyorov3407/Face_Recognation.git
    cd Face_Recognation
 
+pip install opencv-python numpy
+
+python main.py
+
 
 🙋‍♂️ Author
 Bakhtiyorov Firdavs
@@ -50,4 +54,4 @@ Inha University, South Korea
 
 📧 baxtiyorov3407@gmail.com
 📱 +82 010-9521-2775
-🌐 GitHub Profile
+🌐 [GitHub Profile](https://github.com/baxtiyorov3407)
