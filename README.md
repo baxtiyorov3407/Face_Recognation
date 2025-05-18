@@ -1,6 +1,6 @@
 # 🧠 Face Recognition-Based Patient Reservation System
 
-🎥 **Demo Video**: [Click to watch](https://github.com/baxtiyorov3407/Face_Recognation/blob/41e325061ccd5788b698bd4af353ec00ac73d189/Demo_video_Firdavs.mp4)
+🎥 **Demo Video**: [Click to watch](https://github.com/baxtiyorov3407/Face_Recognation/raw/41e325061ccd5788b698bd4af353ec00ac73d189/Demo_video_Firdavs.mp4)
 
 ## 📌 Overview
 
