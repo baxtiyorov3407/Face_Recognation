@@ -43,10 +43,12 @@ This solution aims to make the hospital check-in process more seamless and conta
    git clone https://github.com/baxtiyorov3407/Face_Recognation.git
    cd Face_Recognation
 
-pip install opencv-python numpy
-
-python main.py
-
+2. Install dependencies:
+   pip install opencv-python numpy
+   
+4. Run the main script:
+   python main.py
+   
 
 🙋‍♂️ Author
 Bakhtiyorov Firdavs
