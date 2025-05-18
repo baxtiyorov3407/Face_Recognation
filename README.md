@@ -44,9 +44,11 @@ This solution aims to make the hospital check-in process more seamless and conta
    cd Face_Recognation
 
 2. Install dependencies:
+   ```bash
    pip install opencv-python numpy
    
-4. Run the main script:
+3. Run the main script:
+   ```bash
    python main.py
    
 
